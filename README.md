@@ -1,6 +1,4 @@
-- 👋 Hi, my name is Manny, i'm a student currently
+- 👋 Hi, my name is Manny, i'm currently just a student
 - I'm Mexican
-- 👀 I’m interested in software development, i want to create a big enterprise focused on creating useful and original software in the future, i'm focusing on Android apps, Java and HTML at the moment.
-- 📚 i have learned a bit of these languages: C++, Java and HTML, i'm currently learning: PHP with SQL, and Android Studio with Java, i've made an Android app for a school project but nothing big, definitely i'm not a professional yet.
-- i can be found only here on GitHub, at least for now.
-- i'm new on GitHub right now
+- 👀 My dream is to create original and useful software of any kind to help people.
+- 📚 i have learned a bit of these languages: Java (also with mySQL), I have a decent experience developing Android apps as well, using the MIT App Inventor and specially the Android Studio IDE
