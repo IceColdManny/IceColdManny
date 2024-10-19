@@ -1,4 +1,9 @@
-- 👋 Hi, my name is Manny, i'm currently just a student
-- I'm Mexican
+- 👋 Hi, my name is Manny, i'm currently a university TI student
+- 🇲🇽 I'm Mexican
 - 👀 My dream is to create original and useful software of any kind to help people.
-- 📚 i have learned a bit of these languages: Java (also with mySQL), I have a decent experience developing Android apps as well, using the MIT App Inventor and specially the Android Studio IDE
+- 📚 I have experience in back-end development with languages such as Java, C# and C++
+- 📄 I also have experience working with databases using SQL.
+- 🔵 I'm a back-end web developer, experienced in using HTML. I have done the front-end part of the development using CSS several times too.
+- 🛜 Basic knowledge in networks management and structuring
+- ⚡ Basic habilites using Arduino and with electronic circuit design and assembly.
+- 🏫 Always looking for news ways to expand my knowledge, to share it and to use it to make the world an sligthly better place, one line of code at a time.
